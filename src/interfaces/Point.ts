@@ -1,0 +1,1 @@
+export type Point = google.maps.LatLngLiteral & { key: string };

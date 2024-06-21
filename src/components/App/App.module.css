@@ -1,0 +1,14 @@
+.trashIcon {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    z-index: 1;
+    top: 24px;
+    left: 24px;
+    cursor: pointer;
+    background-color: whitesmoke;
+    width: 48px;
+    height: 48px;
+    border-radius: 100%;
+}
