@@ -1,0 +1,1 @@
+export type TMarker = google.maps.LatLngLiteral & { key: string };
